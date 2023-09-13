@@ -1,2 +1,5 @@
-### Microsoft-Build
-* Repo de las platicas de hoy en el evento "Microsoft Build" en la camara de comercio de Bogotá
+# Proyecto: Evaluación del riesgo de padecer una enfermedad cardiaca
+* Linea de Profundizacion II 
+* Desarrollado 🩻🎨
+* HTML (Utilizando forms)
+* CSS (Estilos e imagenes)
